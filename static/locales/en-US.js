@@ -2,7 +2,7 @@ export const lang = {
     message: {
         ljcy: 'participate',
         ljhy: 'welcome',
-        msg: 'During the ultimate Coin runner event of Ethereum 2.0 Super Node election 2020, the first time you place an order and successfully sell the insurance, you will be eligible to share the bonus!',
+        msg: 'Warmly welcome to participate in the 2020 Ethereum Super Node campaign evangelists, OBAK intelligent contract full open source, welcome global players to jointly supervise',
         zhdz: 'address',
         zhdj: 'level',
         cy: 'participation',
@@ -45,5 +45,7 @@ export const lang = {
         srtxje: 'Enter the withdrawal amount',
         qr: 'confirm',
         qx: 'cancel',
+        g: 'an',
+
     }
 }
