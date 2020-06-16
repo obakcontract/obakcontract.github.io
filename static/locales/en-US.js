@@ -2,7 +2,7 @@ export const lang = {
     message: {
         ljcy: 'participate',
         ljhy: 'welcome',
-        msg: 'Warmly welcome to participate in the 2020 Ethereum Super Node campaign evangelists, OBAK intelligent contract full open source, welcome global players to jointly supervise',
+        msg: 'Warmly welcome you to participate in the 2020 Ethereum 2.0 super node campaign evangelist, the obak smart contract is open-source in the whole process, and welcome the global players to jointly supervise',
         zhdz: 'address',
         zhdj: 'level',
         cy: 'participation',
@@ -46,6 +46,12 @@ export const lang = {
         qr: 'confirm',
         qx: 'cancel',
         g: 'an',
-
+        hint: 'Please enter t',
+        hintNumber: 'Please enter the number of etc',
+        tzgz: 'Single investment cannot be higher than 20',
+        tjcg: 'Submitted successfully',
+        nodata: `There's no data`,
+        txz: 'Withdrawing',
+        qsrzq: 'Please input correctly'
     }
 }
