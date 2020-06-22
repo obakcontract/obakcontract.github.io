@@ -52,6 +52,7 @@ export const lang = {
         tjcg: '제출 완료',
         nodata: '데이터 가 없습니다.',
         txz: '현금 인출 중',
-        qsrzq: '정확하게 입력 하 세 요.'
+        qsrzq: '정확하게 입력 하 세 요.',
+		hintMin:'입력 하 는 값 은 반드시 0.05 보다 커 야 한다.'
     }
 }

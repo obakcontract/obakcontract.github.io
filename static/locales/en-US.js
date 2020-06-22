@@ -52,6 +52,7 @@ export const lang = {
         tjcg: 'Submitted successfully',
         nodata: `There's no data`,
         txz: 'Withdrawing',
-        qsrzq: 'Please input correctly'
+        qsrzq: 'Please input correctly',
+		hintMin:'The value entered must be greater than 0.05'
     }
 }

@@ -52,6 +52,7 @@ export const lang = {
         tjcg: '提交成功',
         nodata: '沒有更多數據了',
         txz: '提現中',
-        qsrzq: '請輸入正確的提現金額'
+        qsrzq: '請輸入正確的提現金額',
+		hintMin:'輸入的值必須大於0.05'
     }
 }
