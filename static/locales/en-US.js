@@ -53,6 +53,12 @@ export const lang = {
         nodata: `There's no data`,
         txz: 'Withdrawing',
         qsrzq: 'Please input correctly',
-		hintMin:'The value entered must be greater than 0.05'
+        hintMin: 'The value entered must be greater than 0.05',
+        gj: 'champion',
+        yj: 'runner-up',
+        jj: 'Third place',
+        bl: 'This round',
+        ztsl: 'Direct push quantity',
+        grdz: 'Personal address'
     }
 }

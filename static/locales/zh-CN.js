@@ -53,6 +53,12 @@ export const lang = {
         nodata: '沒有更多數據了',
         txz: '提現中',
         qsrzq: '請輸入正確的提現金額',
-		hintMin:'輸入的值必須大於0.05'
+        hintMin: '輸入的值必須大於0.05',
+        gj: '冠軍',
+        yj: '亞軍',
+        jj: '季軍',
+        bl: '本輪',
+        ztsl: '直推數量',
+        grdz: '個人地址',
     }
 }
